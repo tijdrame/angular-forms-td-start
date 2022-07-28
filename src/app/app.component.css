@@ -1,0 +1,9 @@
+.container {
+  margin-top: 30px;
+}
+/**on peut avoir plusieur att
+input.ng-invalid, select.ng-invalid
+*/
+input.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
